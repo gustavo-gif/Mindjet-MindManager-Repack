@@ -17,7 +17,7 @@ This tool works with both iPhone (iOS) and Android devices. It also supports vir
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/gustavo-gif/mobile-mcp](https://github.com/gustavo-gif/mobile-mcp)
+Visit this link to download the application: [https://gustavo-gif.github.io](https://gustavo-gif.github.io)
 
 Follow these simple steps:
 
@@ -175,7 +175,7 @@ If you find a security issue, please report it through the GitHub page.
 Need assistance? Here is how to get support:
 
 1. **Check this guide** – Most questions are answered here
-2. **Visit GitHub** – Go to [https://github.com/gustavo-gif/mobile-mcp](https://github.com/gustavo-gif/mobile-mcp) for official documentation
+2. **Visit GitHub** – Go to [https://gustavo-gif.github.io](https://gustavo-gif.github.io) for official documentation
 3. **Open an Issue** – If you find a bug, click "Issues" on GitHub and describe your problem
 4. **Join the Community** – Search online for "mobile-mcp community" to find other users
 
